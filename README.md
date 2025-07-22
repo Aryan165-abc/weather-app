@@ -1,2 +1,37 @@
-# weather-app
-🌤️ A simple weather app built with HTML, CSS, and JavaScript. Users can enter any city to see real-time temperature and weather conditions, powered by WeatherAPI.
+# 🌤️ Simple Weather App
+
+This is a simple weather app built with **HTML**, **CSS**, and **JavaScript**.  
+It uses the [WeatherAPI](https://www.weatherapi.com/) to fetch real-time weather data based on the location entered by the user.
+
+## 🚀 Live Demo
+[**View it here**](https://Aryan165-abc.github.io/weather-app/)
+
+*(Replace the link above with your actual GitHub Pages live link once you enable it)*
+
+---
+
+## ✨ Features
+- User can enter any city name to get current weather
+- Displays:
+  - City & country
+  - Current temperature in °C
+  - Weather condition text
+  - Weather condition icon
+- Clean and responsive design
+- Simple, beginner-friendly code
+
+---
+
+## 🛠️ Built With
+- HTML
+- CSS
+- JavaScript (Vanilla)
+- WeatherAPI (free weather data)
+
+---
+
+## 📦 How to run locally
+1. Clone this repository:
+```bash
+git clone https://github.com/Aryan165-abc/weather-app.git
+
